@@ -28,13 +28,14 @@ Or install it yourself as:
 => "阴"
 
 # 查询明天温度
-“beijing”.temp1
+"beijing".temp1
 => "-7℃~3℃"
 # 查询六天后温度
-“beijing”.temp1
+"beijing".temp6
 => "-3℃~5℃"
+```
 
-== Contributing
+## Contributing
 
 1. Fork it ( https://github.com/superbatironmans5/weather_cn/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
